@@ -27,10 +27,13 @@
 	}
 	h3{
 		font-family: quicksandLight;
-		color: #363636;
+		color: black;
+		font-size: 1.5em;
+		
 	}
 	h4{
-		color: #474747;
+		color: black;
+		text-shadow: .5px .5px #474747;
 	}	
 
 	nav ul {
